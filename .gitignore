@@ -1,0 +1,5 @@
+## Git will ignore files or directories matching the patterns below
+
+.ipynb_checkpoints
+
+__pycache__
